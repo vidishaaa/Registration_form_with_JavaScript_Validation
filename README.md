@@ -98,7 +98,3 @@ Have suggestions for improvements? Feel free to **fork this repository**, create
 🔗 **GitHub Repository:** [Repository Link](https://github.com/vidishaaa/Registration_form_with_JavaScript_Validation)  
 
 ---
-
-**💡 Happy Coding! 🚀**
-
-# Registration_form_with_JavaScript_Validation
